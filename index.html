@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>elunder</title>
+    
+    <!-- Icono de la pestaña -->
+    <link rel="icon" href="ICONO.jpg" type="image/jpeg">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playbill&display=swap" rel="stylesheet">
+    
+    <!-- Firebase SDK Compat -->
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+</head>
+<body>
+
+    <header class="main-header">
+        <img src="https://i.postimg.cc/wMK1YPLS/elunder.jpg" alt="banner elunder">
+    </header>
+
+    <div class="top-bar">
+        <p id="slogan">ideal para ratas que no gastan nada</p>
+    </div>
+
+    <section class="search-area">
+        <input type="text" id="searchInput" placeholder="buscar juego en la cueva...">
+    </section>
+
+    <div class="layout">
+        <main class="container">
+            <div id="gameGrid" class="game-grid"></div>
+        </main>
+
+        <aside class="side-panel">
+            <div class="panel-header">peticiones globales</div>
+            <div id="peticionesList" class="peticiones-list"></div>
+            <form id="peticionesForm" class="peticiones-form">
+                <input type="text" id="petUsername" placeholder="tu nombre" required>
+                <input type="text" id="petGame" placeholder="qué juego falta?" required>
+                <button type="submit" id="petSendBtn">enviar pedido</button>
+            </form>
+        </aside>
+    </div>
+
+    <footer>elunder &copy; 2026 - de argentina pal mundo </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
