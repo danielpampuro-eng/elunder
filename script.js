@@ -41,7 +41,7 @@ fetchPeticiones();
 
 // ===== TODOS LOS JUEGOS =====
 const games = [
-    { title: "60 Seconds!", genre: "supervivencia", image: "https://i.postimg.cc/FzfwWhf4/67df3b78bccf83558d922e28e66e3f4a.jpg", download: "https://www.mediafire.com/file/drbucjhchyro239" },
+  { title: "60 Seconds!", genre: "supervivencia", image: "https://i.postimg.cc/FzfwWhf4/67df3b78bccf83558d922e28e66e3f4a.jpg", download: "https://www.mediafire.com/file/drbucjhchyro239" },
   { title: "7 Days to Die", genre: "supervivencia", image: "https://i.postimg.cc/8Pqm99Pc/7-days-to-die-cover-rn2.webp", download: "https://gofile.io/d/ZtB9Gz" },
   { title: "A Way Out", genre: "aventura", image: "https://i.postimg.cc/JhLDRnM8/b4049e3fde920ab9e5af9f47b292a6c5.jpg", download: "https://gofile.io/d/FdT2mL" },
   { title: "Age of Empires II", genre: "estrategia", image: "https://i.postimg.cc/jq1kZWzm/f84a77a375f45765a2857d2a1bc4cb9e.jpg", download: "https://www.mediafire.com/file/yyt6ko73gzq2bkx" },
@@ -162,7 +162,6 @@ const games = [
   { title: "ULTRAKILL", genre: "shooter", image: "https://i.postimg.cc/7P0vjMmx/243106c2c200cce96781d8d5ef55bace.jpg", download: "https://www.mediafire.com/file/9o5kein19m0vbwv" },
   { title: "Watch Dogs", genre: "acción/aventura", image: "https://i.postimg.cc/7ZxpG50N/df827da31d664707840bc6c221f22d72.jpg", download: "https://www.mediafire.com/file/b00xo5isywrcw8f" },
   { title: "Watch Dogs 2", genre: "acción/aventura", image: "https://i.postimg.cc/BZHymTCK/991d70959133735c15f5ae628fa08d55.jpg", download: "https://buzzheavier.com/2u96bsppi26y" },
-];
 ];
 
 const grid = document.getElementById('gameGrid');
