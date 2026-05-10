@@ -101,7 +101,7 @@ const games = [
   { title: "Dragon Ball: Sparking! Zero", genre: "lucha", image: "https://cdn2.steamgriddb.com/thumb/b5915f4f81b58d9994e21d596c6d8cf5.jpg", download: "https://gofile.io/d/vXn1Yr" },
   { title: "Dragon Ball: Xenoverse", genre: "lucha/rpg", image: "https://cdn2.steamgriddb.com/thumb/59867335179a10a3007e594ec8de5dea.jpg", download: "https://www.mediafire.com/file/wwq4806ffsvv15f/Dragonball+XV.7z/file" },
   { title: "Dragon Ball: Xenoverse 2", genre: "lucha/rpg", image: "https://cdn2.steamgriddb.com/thumb/6194cc9700fea83e075b89f677d3559d.jpg", download: "https://gofile.io/d/rICiCM" },
-  { title: "Elden Ring", genre: "accion", image: "https://cdn2.steamgriddb.com/thumb/cec17cfe3c00623bb2a2feca4749f997.jpg", download: "https://bzzhr.to/u4w8cunxkbrz" },
+  { title: "Elden Ring", genre: "accion", image: "https://cdn2.steamgriddb.com/thumb/cec17cfe3c00623bb2a2feca4749f997.jpg", download: "https://gofile.io/d/4FhGNh" },
   { title: "Euro Truck Simulator 2", genre: "simulación", image: "https://i.postimg.cc/nVKxXbg3/ee9ea1ca595cff82adf00ae3996ae433.jpg", download: "https://www.mediafire.com/file/h1a7szc5qrzl53j" },
   { title: "Factorio", genre: "estrategia", image: "https://cdn2.steamgriddb.com/thumb/adc6076d3c42ca9994c2d251516936f2.jpg", download: "https://www.mediafire.com/file/xib2bgwvc98fx7o" },
   { title: "Fallout 2", genre: "rpg", image: "https://cdn2.steamgriddb.com/thumb/cd7c0dfc3f4b6ef663c6b9f371e7ff37.jpg", download: "https://megadb.net/1wl1srwg981f" },
