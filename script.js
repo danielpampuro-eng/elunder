@@ -113,6 +113,7 @@ const games = [
   { title: "FIFA 23", genre: "deportes", image: "https://cdn2.steamgriddb.com/thumb/5b02838f8ddad123f8cb5a24bcb5883f.png", download: "https://gofile.io/d/t94dji" },
   { title: "Garry's Mod", genre: "sandbox", image: "https://i.postimg.cc/433y5NkB/c7a50e20a30ee52bc64a85a283a3c493.jpg", download: "https://www.mediafire.com/file/7ymehk6r5a7my44" },
   { title: "God of War (2018)", genre: "acción/aventura", image: "https://i.postimg.cc/XYkRHjNb/5855660034a74cfe0e5fc8d57d17f4ac.jpg", download: "https://gofile.io/d/JmySlU" },
+  { title: "GTA SAN ANDREAS", genre: "acción/aventura", image: "https://cdn2.steamgriddb.com/thumb/76bb30110cab45e08d3b81d7bc2c2ee6.jpg", download: "https://www.mediafire.com/file/0iddf1zy4jyyww4" },
   { title: "GTA 3", genre: "acción/aventura", image: "https://i.postimg.cc/jSDxBn92/7856a3a5b530f10a69bec1c57d90330e.jpg", download: "https://www.mediafire.com/file/l1j15jhed10gp9s" },
   { title: "GTA 4", genre: "acción/aventura", image: "https://i.postimg.cc/yxfKb7yJ/a32bc8141e168ff20fdfe3f0fbc72155.jpg", download: "https://www.mediafire.com/file/2j61t7botkz0tfu" },
   { title: "GTA 5", genre: "acción/aventura", image: "https://i.postimg.cc/tg0jfSWt/af0a25e27510f77d97634a6bbe653b13.jpg", download: "https://buzzheavier.com/ouvyovqmuez0" },
