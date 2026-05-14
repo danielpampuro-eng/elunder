@@ -45,6 +45,14 @@ body {
     outline: none;
 }
 
+}
+
+.img-derecha{
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+}
+
 /* layout principal */
 .layout {
     display: flex;
