@@ -46,11 +46,9 @@ body {
 }
 
 }
-
 .img-derecha{
-    width: 45px;
-    height: 45px;
-    object-fit: cover;
+    width: 18px;
+    height: 18px;
 }
 
 /* layout principal */
