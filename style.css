@@ -47,8 +47,8 @@ body {
 
 }
 .img-derecha{
-    width: 18px;
-    height: 18px;
+    width: 120px !important;
+    height: auto !important;
 }
 
 /* layout principal */
